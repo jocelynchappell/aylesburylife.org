@@ -4,6 +4,6 @@
 
 # date: 15/11/2022
 
-# blog software and content for aylesburylife.org
+# website aylesburylife.org
 
-# design stage
+# excluding (?) learning domain
