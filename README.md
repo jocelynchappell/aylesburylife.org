@@ -2,6 +2,6 @@
 
 # author: Jocelyn E. Chappell
 
-# blog software for aylesburylife.org
+# blog software and content for aylesburylife.org
 
 # design stage
